@@ -40,3 +40,8 @@ input[type='submit']{
     border: none;
     border-radius: 10px;
 }
+
+.errors{
+    color: red;
+    font-size: small;
+}
